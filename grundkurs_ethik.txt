@@ -1,0 +1,19 @@
+Susanne Boshammer: Was sind morlaische Probleme und (wie) kann man sie lösen?
+"Moralische Probleme sind \emph erstens praktische Probleme, insofern sie unser Handeln betreffen -- darin unterscheiden sie sich etwa von mathematischen oder ästhetischen Problemen. Und sie werfen \emph zweitens die normative Frage auf, was wir unter den gegebenen Umständen tun \emph dürfen -- darin unterscheiden sie sich beispielsweise von technischen oder politischen Problemen." S. 20
+"Konfliktbeseitigung qua Pflichtenbehebung" S. 26 (geht z.B. wenn wir ein Versprechen nicht einhalten können und mit der Person drüber reden)
+"Veränderung der normativen Situation (...) durch technische Maßnahmen." (passende Gedanken: extrem passives Fahren oder bessere Sensoren oder....) S. 27
+"In manchen Konflikten bedeutet (...) schon die Tatsache der Abwägung und nicht erst ihr Ergebnis, respektive dessen Folgen, eine schwere Schuld. Und weil (...) manche Pflichten nicht gegeneinander abgewogen werden dürfen, sind die entsprechenden Konflikte auch nicht mittels Pflichtengewichtung lösbar. Der Weg zur Lösung des morlaischen Konflikts ist (...) aus moralischen Gründen versperrt" S. 36
+Im Bezug darauf: "\emph worst case aus der Perspektive der Folgen zum \emph best case aus der Perspektive der Moral" S. 36; finden viele nicht überzeugend. 
+
+Dagma Borchers: Moralische Exzellenz. Einführung in die Tugendethik
+Zentrale Frage: Wie soll ich sein? Deswegen eher doof für Roboter/Computer etc. 
+
+Dieter Birnbacher: Heiligen die Zwecke die Mittel? Einführung in die Kosequenzialistische Ehtik
+auusschließlich an Folgen orientiert bzw. an den zu erwartenden Handlungsfolgen. S. 91
+Maßstäbe sind: zu erwartende Handlungsfolgen, Eintrittswahrscheinlichkeit, Qualität der Folgen. S. 93 
+(Fortsetzung der Maßstäbe:) unbeabsichtigte aber abzusehende Folgen aka "Nebenfolgen"(!!!!!), es werden "ausschließlich die Folgen berücksichtigt, die \emph andere als den Aktuer betreffen. S. 94
+
+Andreas Müller: Aus Prinzip? Einführung in die Deontologische Ethik
+an Regeln orientiert, Folgen sind bedeutungslos
+"..., dass der Verlust eines Menschenlebens nichts ist, das bei der Entscheidung zwischen mehreren Handlungsoptionen einfach durch weitere Gesichtspunkte aufgewogen werden kann" S. 122. 
+Schützt also eher die Individuen. Unterscheidung zwischen Tun und Unterlassen. S. 122-123

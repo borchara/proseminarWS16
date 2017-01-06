@@ -1,0 +1,17 @@
+Robot Ethics (Patrick Lin)
+
+Kapitel 3: 
+Keith Abney: Robotics, Ethical Theory, and Methaethics: A Guide for the Perplexed
+Auch wenn eine Kreatur keine Gefühle hat, kann sie rational entscheiden und moralisch sein. S. 47
+"My cat is not put on trial for arson when it knocks over a candle and burns down the house--nor is a baby, or someone asleep in the midst of a nightmare. But we could imagine an intelligent alien, either one entirely lacking emotions or with suppressed emotions (such as Commander Data or Mr. Spock of Star Trek fame) who would be held responsible." S. 47
+
+Seine Kritik: Roboter können nicht wirklich frei handeln, da sie ihren Algorithmen unterliegen. Jedoch sei freier Wille nötig, um moralisch verantwortlich gemacht werden zu können. S. 48
+Aber auch bei Menschen ist noch nicht geklärt, wie eigenltich sein Bewusstsein zustande kommt. Vielleicht kann in Zukunft die Quantenforschung hier Antworten liefern und Künstlicher Intelligenz Bewusstsein geben. 
+
+Kapitel 4:
+Colin Allen, Wendell Wallach: Moral Machines: Contradiciton in Terms or Abdication of Human Responsibility?
+AMA = Artificial Moral Agent
+"Implementing any top-down theory of ethics in an artificial moral agent will pose both computational and practical challenges." S. 59
+"Bottom-up approaches to the developement of AMAs(Fußnote) attempt to emulate learning, developmental, and evolutionary processes" S.59
+Beide sind schwierig umzusetzen. vielleicht stellt ein Hybrid die Lösung dar. 
+AMAs werden vermutlich einen "Moral Code Designed for Robots" brauchen, der an ihre "Bedürfnisse"/Gegenbenheiten angepasst ist. S. 63
