@@ -1,0 +1,24 @@
+Selbst wenn sowas nicht auftritt, muss es programmiert werden. 
+Code soll transparent sein.
+" Manufacturers
+of utilitarian cars will be criticized for their
+willingness to kill their own passengers.
+Manufacturers of cars that privilege their
+own passengers will be criticized for devalu-
+ing the lives of others and their willingness
+to cause additional deaths. Tasked with sat-
+isfying the demands of a morally ambiva-
+lent public, the makers and regulators of
+autonomous vehicles will find themselves
+in a tight spot." S. 1515
+"the prospect
+of being killed by one’s own car may feel
+like a personal betrayal to be avoided at all
+costs" S. 1515
+"We can program autonomous
+vehicles to minimize harm, but that, appar-
+ently, is not something with which we are
+entirely comfortable." S.1515
+
+Programmierer haben nicht den Luxus of vague abstraction
+Aufgabe fuer Heuteige Philosophen, da Dilemma philosophischer Natur. Man kann jetzt unsere Moral nicht in Code packen, wenn sie nicht konsistent und eindeutig ist.

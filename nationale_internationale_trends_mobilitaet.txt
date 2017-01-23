@@ -1,0 +1,69 @@
+Scholz et all: Autnomes Fahren: Autos im morlaischen Dilemma?
+
+erhoffte Vorteile:
+Zugang zu individueller Mobilitaet
+
+Ethische Argumente als zu erfuellende Nebenbedingungen, da unethische Technik allgemein abgelehnt wird. 
+
+"die Ansprüche an
+die Sicherheit und Verlässlichkeit autonomer Fahrzeuge werden gesellschaftlich
+ungleich höher sein als die Ansprüche gegenüber menschlichen Fahrern." S. 219
+das Fahrzeug hat quasi perfekt zu reagieren und muss gesellschafliche Anforderungen erfuellen
+
+Abwaegen von Menschleben unethisch (purer Util also abgelehnt)
+Egal was Autobauer macht, es wird immer viele Menschen geben die das ablehnen. Aber Zuspitzungen und Dilemma sind in der diskussion nicht hilfreich und kaum relevant. 
+
+Deonto. (Kantianismus) und Utili snd beide nur schwer in der Praxis umsetzbar
+
+Kritik Utili: alle Konsrquenzen nicht absehbar, "unendlich
+großen Dateninput" S. 221 kann nicht verarbeitet werden
+Meine Kritik: Motorrad-Problem, es waere eine absehbare Nebenfolge dass die Leute keinen Helm tragen wuerden wenn Helm getroffen wird. Utili wurde Gerechtigkeitsgefuehl der Menschen nicht verletzen.
+
+Kritik Kantia: handlungsunfaehig in Extremsituationen, Menschen wuerden 1 Menschen opfern wenn ungleich viele dafuer gerettet wuerden
+
+Also: beides keine Loesung, mit der die meisten Menschen uebereinstimmen. Der Programmierer kann das Dilemma nicht loesen, wenn alle uneins sind. 
+"Von den Programmierern dieser Fahr‐
+zeuge sollte daher nicht das Auflösen moralischer Dilemmata erwartet werden,
+wenn selbst in der Moralphilosophie keine Einigkeit herrscht" S. 222
+
+Idee: erst spaeter ist moralische Bewertung moeglich. 
+"Gemäß des all‐
+gemein akzeptierten Konzepts der moralischen Verantwortung ist der Mensch nur
+dann moralisch verantwortlich, wenn drei Voraussetzungen erfüllt waren [2] [3].
+So musste man beispielsweise in der Lage gewesen sein, das eingetretene Resultat
+nicht herbeizuführen, es musste also Wahlfreiheit zwischen mehreren zumutbaren
+Optionen bestehen. In der geschilderten Situation führt jede denkbare Handlungs‐
+alternative zu gravierenden Personenschäden und ist damit nicht zumutbar. Folg‐
+lich ist der Fahrer – Mensch oder Maschine – im Dilemma für die verursachten
+Personenschäden moralisch nicht verantwortlich" S. 222
+
+Trotzdem: es muss eine Loesung/Handlungsanweisung geben!
+Dilemma soll vermieden werden via: S. 222 ff.
+autor versucht pragmatisch vier Loesungswege zu zeigen: 
+1. graduelle Einfuehrung AA in den Verkehr auf bestimmte Szenarien beschraenkt (zuerst nur Autobahn). Kontrollierte Umgebungen, Fahrer muss jederzeit eingreifen keonnen und traegt somit die moralische Verantwortung. Bis dahin kann sich die gesellschaftliche akzeptanz verbessern.
+
+2. Koordinative Systeme (alles ist vernetzt, auch Fussgaenger, Ampel etc.). alle wuerden versuchen, einen safe state zu erzeugen. gemeinsam eine entscheidung treffen
+
+3. extrem defensive Fahrweise, Geschwindigkeitbegrenzung (muss nicht unbedingt fuer mehr staus in staedten fuehren, wenn Verkehr effizient fliesst)
+
+4. nicht deterministische Entscheidungssysteme sollen den perfekten MENSCHLICHEN Fahrer simulieren.
+"Wie genau das neuronale
+Netz in der konkreten Situation zu seiner Lösung kommt, ist allerdings nicht mehr
+im Detail nachvollziehbar" S. 227
+"Bei der Implementierung eines künstlichen neuronalen Netzes zur Lösung des mo‐
+ralischen Dilemmas kommt somit ein Trick zum Einsatz: Es wird ein System ent‐
+wickelt, welches dazu befähigt wird, das Problem zu lösen – ohne eine vorgege‐
+bene Lösung. Die Verantwortung für die Auflösung des Dilemmas wird dem au‐
+tonomen Fahrzeug übertragen, ohne dass ein konkreter moralischer Rückgriff auf
+dessen menschlichen „Programmierer“ möglich ist – denn für das konkrete Ent‐
+scheidungsproblem wurde ja niemals eine konkrete Antwort vorgegeben oder eine
+konkrete Handlungsanweisung (Regel) in Form eines Algorithmus implementiert.
+Das Fahrzeug „macht das Beste“ aus der Situation, im Rahmen seiner Möglichkei‐
+ten." S. 227
+
+Fazit: 
+man darf sich von Dilemma nicht die Sicht aufs wesentliche versperren lassen: vorteile von AA. dennoch diskurs darueber noetig.
+"In Zukunft stellt sich nicht mehr die Frage, ob autonome Fahrzeuge gesellschaftlich
+akzeptiert sind. Die Frage wird vielmehr sein, wie lange die Gesellschaft noch
+menschliche Fahrer akzeptiert." S. 229
+

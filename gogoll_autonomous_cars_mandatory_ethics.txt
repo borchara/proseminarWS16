@@ -1,0 +1,49 @@
+Auswirkung auf konventionelle Fahrer:
+"People who enjoy having a steering wheel in
+their hand might fear, for instance, that autonomous cars will prove so much safer than regular cars that
+Elon Musk’s prediction comes true and the government might outlaw non-autonomous cars"
+" the driver behind the bus needs to make a split second decision
+based on very limited information. In such a situation, there is simply no time to
+form a—what philosophers sometimes call—deliberate judgment and, thus, there
+are thin grounds for assigning responsibility. In a world with autonomous cars, the
+case is different. Here, an agent—for instance the driver of a particular car or a
+regulative agency—essentially needs to tell the car beforehand what it should do in
+such a case. Or to put it differently: an agent must decide for a specific ethics
+setting. From a normative perspective, this raises an immediate question, namely:
+What is the right ethics setting?" S. 3
+Zentrale Fragestellung: darf jeder sein eigenes Ethik-Setting haben oder soll es ein einheitliches geben fuer alle? Wer soll das beschliessen?
+Die Autoren sind der Meinung: "we will claim that a mandatory ethics setting
+should be in the best interest of all members of society" S. 3
+Debattiert wird anhand des Trolley Problems
+Menschen koennen im Dilemma nicht eine Entscheidung treffen, sie reagieren einfach aus Instinkt. Computer arbeiten deterministisch, "consequences cannot be considered accidental because they are determined
+beforehand" S. 6
+- Computer handeln nicht aus Instinkt oder sind von Adrenalin beeinflusst
+- Computer koennen/muessen viele Daten auf einmal verarbeiten und waeren in der Lage, eine wohlueberlegte Entscheidung zu trefen
+- es muss eine Art default Reaktion geben
+Interessant: "descriptive ethics based machines, which mimic the entire spectrum of actual human ethical opinions of society using some mechanism of randomizati" S. 6f
+
+Loesungsansatz PES Personal Ethics Setting:
+- mehr Autonomy des Einzelnen, mehr Verantwortung
+- es ist schwierig in einer heterogenen Gesellschaft auf einen Nenner zu kommen, daher sollte die Entscheidung vom Individuum getroffen werden
+- Extremposition: vielleicht mag manch einer sich freiwillig opfern, weil schon alt?
+- "moral proxy" S. 8
+- Probleme: Rassismus, Sexismus etc, zu grosse Verantwortung fuer manche Menschen, wie sich noch herausstellt waeren alle mit MES sicherer (mit PES will man ja selbst/seine Lieben eigentlich sicherer sein, paradox)
+
+Loesungsansatz MES Mandatory Ethics Setting:
+"a moral agent is put in a society in whichcannot be sure what the actual distribution of moral and selfish agents is. In this
+circumstance, even a moral agent might think to herself: Well, I am not disposedsacrifice myself for people I don’t know and who might well not do the same for me.
+I want to be moral, but I do not want to be a sucker. A standard way to model suchcase is the well-known prisoner’s dilemma." S. 11
+"If every participant chooses
+the moral PES, traffic would be maximally safe for everyone." S. 12 wird anhand von Rechnungen bewiesen
+
+Wer soll MES bestrimmen? staatliche regelung gefordert, neuer Industriestandard der Hersteller verpflichtet
+- definitiv Utili
+
+Was spricht gegen MES:
+- bestimmte Gruppen leben gefaehrlicher (allein Fahrende)
+- wenn durch Staat bestimmt, wird der Einzelne entmuendigt
+- stimmen ueberhaupt alle zu? gleiches Problem: man kann sich nicht einigen. Eventuell "altruistic add-on" S. 18 moeglich machen
+
+conclusion:
+MEs sollte im Sinner aller sein, auch wenn die Leute nicht unbedingt ein einem Selbtsmoerderauto fahren moechten (aber alle anderen ausser mir sollen das bitte machen). Welche Ethik wird hier nicht erwaehnt. real world agents handeln nie pur deonto oder utili
+
